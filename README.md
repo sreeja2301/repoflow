@@ -120,6 +120,7 @@ dependency_file: requirements.txt
 entry_command: python custom_script.py --epochs 10
 ```
 
-## Contributing
+## Author
 
-Contributions are welcome. Please feel free to submit a Pull Request or open an issue if you encounter a bug or have a feature request.
+- **Name:** Sreeja Bonthu
+- **Email:** sreejabonthu@gmail.com
