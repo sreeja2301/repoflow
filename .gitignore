@@ -1,0 +1,25 @@
+# Python Standard Ignores
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+error.log
+
+# Directories
+outputs/
+
+# RepoFlow Generated Artifacts
+Dockerfile
+docker-compose.yml
+.devcontainer/
+Makefile
+run.sh
+run.ps1
+
+# RepoFlow Outputs & Metadata
+reproflow_metadata.json
+repro_report.json
+Reproduce.md
+repro_runs/
